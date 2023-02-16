@@ -10,6 +10,11 @@
 
             Console.WriteLine(message);
 
+            int num1 = 3;
+            int num2 = 4;
+
+            //Calculate.Sum(num1, num2);
+            Console.WriteLine(Calculate.Sum(num1, num2));
 
         }
 
